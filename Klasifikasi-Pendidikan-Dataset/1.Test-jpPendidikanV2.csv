@@ -1,0 +1,16 @@
+id,sex,ssc_percentage,ssc_board,hsc_percentage,hsc_board,hsc_subject,degree_percentage,undergrad_degree,specialisation,mba_percent
+211,M,80.6,Others,82,Others,Commerce,77.6,Comm&Mgmt,Mkt&Fin,74.49
+208,M,83.33,Central,78,Others,Commerce,61,Comm&Mgmt,Mkt&Fin,71.55
+213,M,67,Others,67,Others,Commerce,73,Comm&Mgmt,Mkt&Fin,69.72
+205,F,74,Others,73,Others,Commerce,73,Comm&Mgmt,Mkt&Fin,67.69
+209,F,43,Central,60,Others,Science,65,Comm&Mgmt,Mkt&HR,62.92
+214,F,74,Others,66,Others,Commerce,58,Comm&Mgmt,Mkt&HR,60.23
+215,M,62,Central,58,Others,Science,53,Comm&Mgmt,Mkt&HR,60.22
+203,M,70,Central,63,Central,Science,66,Sci&Tech,Mkt&HR,60.11
+202,M,54.2,Central,63,Others,Science,58,Comm&Mgmt,Mkt&HR,58.44
+204,M,55.68,Others,61.33,Others,Commerce,56.87,Comm&Mgmt,Mkt&HR,58.3
+206,M,61,Others,62,Others,Commerce,65,Comm&Mgmt,Mkt&Fin,56.81
+210,M,62,Central,72,Central,Commerce,65,Comm&Mgmt,Mkt&Fin,56.49
+212,M,58,Others,60,Others,Science,72,Sci&Tech,Mkt&Fin,53.62
+207,M,41,Central,42,Central,Science,60,Comm&Mgmt,Mkt&Fin,53.39
+201,M,69,Others,60,Others,Commerce,65,Comm&Mgmt,Mkt&Fin,52.81
